@@ -1,3 +1,5 @@
 Cinema 100 euro
 Ristorante 150 euro
+Palestra 67 euro
+
 
