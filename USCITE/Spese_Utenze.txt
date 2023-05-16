@@ -1,0 +1,7 @@
+mese Gennaio 
+Gas 10
+Luce 100
+Acqua 69
+Internet 200 
+Condominio 2023
+
